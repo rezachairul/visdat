@@ -1,0 +1,176 @@
+spotify_id,spotify_uri,album,name,popularity,release_date,track_number,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+5dSidrJ5XHdP1xb11xpV2z,spotify:track:5dSidrJ5XHdP1xb11xpV2z,Life Is But a Dream…,Game Over,70,2023-06-02,1,0.357,0.841,9,-9.217,1,0.063,0.0034,0.0507,0.151,0.114,87.01,226067,4
+4KyghCEewQOSZ4OdvQwFN3,spotify:track:4KyghCEewQOSZ4OdvQwFN3,Life Is But a Dream…,Mattel,70,2023-06-02,2,0.291,0.822,2,-7.089,0,0.0459,9.8e-05,0.0275,0.113,0.264,127.1,330387,4
+4Rs2N7ewIjanXUNYtMKK3j,spotify:track:4Rs2N7ewIjanXUNYtMKK3j,Life Is But a Dream…,Nobody,70,2023-06-02,3,0.353,0.677,7,-8.159,1,0.041,0.000908,2.91e-06,0.276,0.222,73.762,353987,4
+0JUZetZb7lxLsmT7HwNCQv,spotify:track:0JUZetZb7lxLsmT7HwNCQv,Life Is But a Dream…,We Love You,67,2023-06-02,4,0.309,0.813,9,-9.647,0,0.0471,0.000441,0.187,0.0625,0.108,140.034,375027,4
+1xA87lWGnZlIjG8tw4327F,spotify:track:1xA87lWGnZlIjG8tw4327F,Life Is But a Dream…,Cosmic,69,2023-06-02,5,0.271,0.722,9,-8.025,1,0.0509,0.00168,0.0111,0.166,0.162,127.02,451160,4
+0hTO34HlurDf9J8LSZm7Nl,spotify:track:0hTO34HlurDf9J8LSZm7Nl,Life Is But a Dream…,Beautiful Morning,66,2023-06-02,6,0.483,0.695,4,-8.27,0,0.0332,0.000485,0.473,0.144,0.108,132.052,392147,4
+6qXVuEYcL6M4Yc1zyY5F8D,spotify:track:6qXVuEYcL6M4Yc1zyY5F8D,Life Is But a Dream…,Easier,65,2023-06-02,7,0.435,0.709,9,-8.189,1,0.0455,0.0135,0.324,0.208,0.322,149.762,217760,4
+3hpB5SlyESKXrmc6NUNQhd,spotify:track:3hpB5SlyESKXrmc6NUNQhd,Life Is But a Dream…,G,66,2023-06-02,8,0.396,0.861,2,-7.891,1,0.0419,0.000459,0.00214,0.181,0.441,89.732,217653,4
+5Jfa1TJRwDnofxUlDg1yQy,spotify:track:5Jfa1TJRwDnofxUlDg1yQy,Life Is But a Dream…,(O)rdinary,67,2023-06-02,9,0.618,0.708,0,-7.778,0,0.0305,0.00242,0.0524,0.195,0.541,115.039,172319,4
+1CuHu4a51IOR4LXjB5jObB,spotify:track:1CuHu4a51IOR4LXjB5jObB,Life Is But a Dream…,(D)eath,65,2023-06-02,10,0.172,0.432,6,-10.295,0,0.0324,0.381,0.00277,0.2,0.175,129.514,199508,4
+3mkLW2ip0xiBHGUzhcxgHx,spotify:track:3mkLW2ip0xiBHGUzhcxgHx,Life Is But a Dream…,Life Is But a Dream...,64,2023-06-02,11,0.427,0.114,10,-20.378,1,0.0387,0.707,0.879,0.106,0.107,123.726,269880,3
+6OJ2Q3WF6fWsSDXJ7x21ja,spotify:track:6OJ2Q3WF6fWsSDXJ7x21ja,Live in the LBC,Intro - Live,39,2020-03-06,1,0.197,0.55,8,-14.023,1,0.178,0.13,0.82,0.414,0.163,235.998,55880,3
+1YQwSXwOyiHsDhuHK4qwef,spotify:track:1YQwSXwOyiHsDhuHK4qwef,Live in the LBC,Critical Acclaim - Live,47,2020-03-06,2,0.422,0.955,2,-7.368,0,0.133,6.86e-05,6.87e-05,0.51,0.112,137.998,366200,4
+1OCJTJmvLswgUFmWGyAfMB,spotify:track:1OCJTJmvLswgUFmWGyAfMB,Live in the LBC,Second Heartbeat - Live,46,2020-03-06,3,0.338,0.978,0,-7.411,0,0.0946,1.5e-05,0.0103,0.869,0.117,96.838,307667,4
+4A8maWsDAZ51QngVy9tU4S,spotify:track:4A8maWsDAZ51QngVy9tU4S,Live in the LBC,Afterlife - Live,46,2020-03-06,4,0.469,0.933,2,-8.278,0,0.119,6.14e-05,4.66e-05,0.812,0.23,110.03,427680,4
+6VOJIfQBE4P21mnBA82nIK,spotify:track:6VOJIfQBE4P21mnBA82nIK,Live in the LBC,Beast and the Harlot - Live,45,2020-03-06,5,0.378,0.981,0,-7.47,0,0.195,5.47e-06,0.000111,0.815,0.143,155.004,386813,4
+4FoNCaMnijfUxdIgTAzUEN,spotify:track:4FoNCaMnijfUxdIgTAzUEN,Live in the LBC,Scream - Live,44,2020-03-06,6,0.468,0.947,1,-8.551,1,0.317,0.000168,1.76e-05,0.968,0.189,129.886,384987,4
+6HJKu9uSy79XQ4Z5gDa0xY,spotify:track:6HJKu9uSy79XQ4Z5gDa0xY,Live in the LBC,Seize the Day - Live,47,2020-03-06,7,0.34,0.858,5,-8.613,1,0.0953,0.00197,1.3e-05,0.709,0.245,139.777,476787,4
+2P0GYyChWTWwdvkaBW1zhg,spotify:track:2P0GYyChWTWwdvkaBW1zhg,Live in the LBC,Walk - Live,40,2020-03-06,8,0.374,0.864,3,-8.211,1,0.0951,9.06e-05,7.45e-05,0.917,0.349,113.125,130893,4
+780voClLvwbE1eSatqXaep,spotify:track:780voClLvwbE1eSatqXaep,Live in the LBC,Bat Country - Live,45,2020-03-06,9,0.393,0.956,0,-7.201,1,0.125,9.17e-06,0.00154,0.954,0.285,124.974,363560,4
+4hZcXYIOBkmWQ2zCNHa0wx,spotify:track:4hZcXYIOBkmWQ2zCNHa0wx,Live in the LBC,Almost Easy - Live,44,2020-03-06,10,0.437,0.894,6,-8.136,0,0.0924,0.000154,0.000406,0.584,0.207,87.485,328293,4
+0z0rIGAYZlhZpzsPc1evmY,spotify:track:0z0rIGAYZlhZpzsPc1evmY,Live in the LBC,Gunslinger - Live,44,2020-03-06,11,0.169,0.788,2,-7.896,0,0.0475,0.00345,2.63e-06,0.542,0.209,79.419,277160,4
+7lBKzxqVnqxuNbDiHNtHWC,spotify:track:7lBKzxqVnqxuNbDiHNtHWC,Live in the LBC,Unholy Confessions - Live,44,2020-03-06,12,0.179,0.939,5,-7.919,1,0.422,0.000281,0.00238,0.977,0.144,73.612,445093,4
+6sQLtybPi4T8Pllk4Grxf9,spotify:track:6sQLtybPi4T8Pllk4Grxf9,Live in the LBC,A Little Piece of Heaven - Live,47,2020-03-06,13,0.264,0.91,2,-7.454,0,0.0829,0.000716,0.0,0.454,0.334,145.021,645100,4
+42UuBal9QbXTc7E4cJTzEA,spotify:track:42UuBal9QbXTc7E4cJTzEA,Diamonds in the Rough,Demons,50,2020-02-07,1,0.524,0.952,2,-8.602,1,0.0536,0.000119,0.00604,0.248,0.416,92.489,371832,4
+7CAdycFxxvZqfSKNsdcVQB,spotify:track:7CAdycFxxvZqfSKNsdcVQB,Diamonds in the Rough,Girl I Know,54,2020-02-07,2,0.515,0.911,2,-7.368,0,0.0793,0.00041,0.000228,0.335,0.451,135.002,264035,4
+4Oq241mV2LEcQsfXQPOfZe,spotify:track:4Oq241mV2LEcQsfXQPOfZe,Diamonds in the Rough,Crossroads,54,2020-02-07,3,0.438,0.945,2,-8.049,1,0.0753,0.000111,8.29e-05,0.406,0.339,180.033,270123,4
+7JdFZwtQ8ddrCNS2h6VuP1,spotify:track:7JdFZwtQ8ddrCNS2h6VuP1,Diamonds in the Rough,Flash of the Blade,48,2020-02-07,4,0.45,0.963,7,-8.011,1,0.0791,0.000283,0.00601,0.0947,0.168,113.073,241707,4
+5NJTJElk0ArSxQtYjA0rYR,spotify:track:5NJTJElk0ArSxQtYjA0rYR,Diamonds in the Rough,Until the End,57,2020-02-07,5,0.34,0.816,6,-7.929,0,0.0565,0.0195,0.0,0.095,0.272,160.009,285613,4
+5i1oSgQgD64N3uj1Jkp4OO,spotify:track:5i1oSgQgD64N3uj1Jkp4OO,Diamonds in the Rough,Tension,49,2020-02-07,6,0.551,0.879,5,-7.645,1,0.0611,0.000517,1.05e-06,0.142,0.291,139.908,289627,4
+1Qu5IinXahISGC2LglQIuX,spotify:track:1Qu5IinXahISGC2LglQIuX,Diamonds in the Rough,Walk,46,2020-02-07,7,0.392,0.894,2,-7.491,1,0.0513,0.000121,0.00503,0.175,0.641,117.283,321608,4
+3TK9KE48R2wy5xWNgTaolO,spotify:track:3TK9KE48R2wy5xWNgTaolO,Diamonds in the Rough,The Fight,48,2020-02-07,8,0.507,0.864,7,-7.485,1,0.0347,0.00102,0.0,0.124,0.559,99.953,247384,4
+42oDn8qC9g7DAAwjR3MAQt,spotify:track:42oDn8qC9g7DAAwjR3MAQt,Diamonds in the Rough,Dancing Dead,56,2020-02-07,9,0.501,0.868,5,-8.356,1,0.0475,0.00117,0.00108,0.339,0.348,142.035,351581,4
+1y3TzqL0IxkvuYIOIYcMyF,spotify:track:1y3TzqL0IxkvuYIOIYcMyF,Diamonds in the Rough,Almost Easy - Chris Lord-Alge Mix,43,2020-02-07,10,0.386,0.911,1,-8.435,0,0.0441,4.06e-05,0.000912,0.24,0.477,174.984,233766,4
+4jf3PVyoxnyKiVEaebfIPl,spotify:track:4jf3PVyoxnyKiVEaebfIPl,Diamonds in the Rough,Afterlife - Alternate Version,45,2020-02-07,11,0.519,0.921,2,-7.507,0,0.0621,0.00277,1.15e-06,0.173,0.328,109.99,353434,4
+2n8rY6H6u2AnUe6Fi8M6P6,spotify:track:2n8rY6H6u2AnUe6Fi8M6P6,Diamonds in the Rough,St. James,54,2020-02-07,12,0.511,0.948,5,-7.613,1,0.0869,0.000413,0.00013,0.318,0.243,90.004,302400,4
+0ZvKcvzELuiKb85hQIbkNb,spotify:track:0ZvKcvzELuiKb85hQIbkNb,Diamonds in the Rough,Set Me Free,49,2020-02-07,13,0.448,0.661,6,-7.293,1,0.0311,0.000415,6.42e-05,0.0499,0.213,139.983,381201,4
+0FbbrIn1qHZ1EJz58dQfXH,spotify:track:0FbbrIn1qHZ1EJz58dQfXH,Diamonds in the Rough,4:00 AM,49,2020-02-07,14,0.501,0.937,7,-8.213,0,0.0674,0.000621,0.0,0.103,0.379,145.004,300692,4
+6wqgGvSadXZ6bzjl96UwAN,spotify:track:6wqgGvSadXZ6bzjl96UwAN,Diamonds in the Rough,Lost It All,48,2020-02-07,15,0.539,0.909,2,-7.337,0,0.116,0.00011,0.000122,0.174,0.557,137.971,231844,4
+53pWOzRC9DI6LixasJEdZZ,spotify:track:53pWOzRC9DI6LixasJEdZZ,Diamonds in the Rough,Paranoid,54,2020-02-07,16,0.487,0.835,9,-9.168,1,0.0471,0.00247,3.73e-06,0.313,0.512,168.147,162690,4
+69gBAQdpxvCsw34Bbf8MnD,spotify:track:69gBAQdpxvCsw34Bbf8MnD,The Stage (Deluxe Edition),The Stage,56,2017-12-22,1,0.453,0.945,9,-6.925,0,0.0975,0.000363,0.323,0.108,0.215,134.949,512025,4
+54eHsmpBTFQaFsQ44Uh1C9,spotify:track:54eHsmpBTFQaFsQ44Uh1C9,The Stage (Deluxe Edition),Paradigm,44,2017-12-22,2,0.498,0.962,1,-6.73,1,0.0747,0.000113,0.252,0.1,0.385,97.44,258748,4
+3XEnD6waKU6E67IJXGURga,spotify:track:3XEnD6waKU6E67IJXGURga,The Stage (Deluxe Edition),Sunny Disposition,43,2017-12-22,3,0.463,0.952,9,-7.054,1,0.0818,0.000306,0.359,0.175,0.387,95.037,401213,4
+5uZf5fcY88UMoJtCRbSDKg,spotify:track:5uZf5fcY88UMoJtCRbSDKg,The Stage (Deluxe Edition),God Damn,47,2017-12-22,4,0.5,0.947,7,-5.75,0,0.122,0.000597,0.00223,0.125,0.267,120.021,221974,4
+7anar50LfTXvhMMuZfvZG2,spotify:track:7anar50LfTXvhMMuZfvZG2,The Stage (Deluxe Edition),Creating God,42,2017-12-22,5,0.467,0.967,7,-5.907,1,0.195,7.64e-05,0.287,0.324,0.31,149.956,334600,4
+5kYhvoTzP1xwiEQBzKAbyh,spotify:track:5kYhvoTzP1xwiEQBzKAbyh,The Stage (Deluxe Edition),Angels,42,2017-12-22,6,0.407,0.843,7,-8.43,0,0.0776,0.00281,0.0367,0.0611,0.619,154.974,340627,4
+710I1qNFgsZBCco12BvsXg,spotify:track:710I1qNFgsZBCco12BvsXg,The Stage (Deluxe Edition),Simulation,40,2017-12-22,7,0.328,0.925,0,-7.464,0,0.195,0.00043,0.0638,0.225,0.322,186.95,330946,4
+0s58fNrvimb1xMwPF0T35r,spotify:track:0s58fNrvimb1xMwPF0T35r,The Stage (Deluxe Edition),Higher,42,2017-12-22,8,0.558,0.904,7,-7.812,0,0.0827,0.000831,0.256,0.46,0.172,129.955,388879,4
+5QAYgWH077T3F8kAcVtQs7,spotify:track:5QAYgWH077T3F8kAcVtQs7,The Stage (Deluxe Edition),Roman Sky,49,2017-12-22,9,0.457,0.425,2,-8.807,0,0.0304,0.131,2.6e-05,0.0917,0.128,130.002,300361,4
+2lwIcqxJAGxwHcOZCjhNEV,spotify:track:2lwIcqxJAGxwHcOZCjhNEV,The Stage (Deluxe Edition),Fermi Paradox,40,2017-12-22,10,0.326,0.946,9,-6.008,0,0.089,5.56e-05,0.346,0.457,0.388,154.878,390826,4
+5A93W5YIoFLWP1TNc4oPvg,spotify:track:5A93W5YIoFLWP1TNc4oPvg,The Stage (Deluxe Edition),Exist,43,2017-12-22,11,0.309,0.936,2,-7.381,0,0.103,0.000222,0.586,0.318,0.111,130.241,939139,4
+6Gcv1c96EIihHdJeERkpc8,spotify:track:6Gcv1c96EIihHdJeERkpc8,The Stage (Deluxe Edition),Dose,42,2017-12-22,12,0.455,0.938,9,-6.206,1,0.062,4.5e-05,0.362,0.155,0.258,135.087,298532,4
+3KgOhRLuKXd61GgLzdBZqd,spotify:track:3KgOhRLuKXd61GgLzdBZqd,The Stage (Deluxe Edition),Retrovertigo,41,2017-12-22,13,0.431,0.889,0,-6.617,1,0.0361,0.000259,0.0295,0.317,0.297,144.963,279857,4
+2oZSBEtzUtq70iQwpNjrnk,spotify:track:2oZSBEtzUtq70iQwpNjrnk,The Stage (Deluxe Edition),Malagueña Salerosa,54,2017-12-22,14,0.204,0.921,4,-6.888,0,0.0543,0.0261,0.00128,0.0769,0.686,172.525,254984,3
+071hmHI51coELRK8hoH12U,spotify:track:071hmHI51coELRK8hoH12U,The Stage (Deluxe Edition),Runaway,44,2017-12-22,15,0.41,0.954,2,-6.93,1,0.0682,0.000455,0.196,0.152,0.48,157.972,169319,4
+1kISGVJoCqozjc4280wBcU,spotify:track:1kISGVJoCqozjc4280wBcU,The Stage (Deluxe Edition),As Tears Go By,43,2017-12-22,16,0.584,0.826,7,-5.769,1,0.0261,0.00029,0.00115,0.354,0.782,130.022,174562,4
+4JwxJm8zCPbc1DMcfVdbBl,spotify:track:4JwxJm8zCPbc1DMcfVdbBl,The Stage (Deluxe Edition),Wish You Were Here,58,2017-12-22,17,0.572,0.567,7,-8.432,1,0.0298,0.00177,0.00793,0.0689,0.29,130.018,313919,4
+59x9anKxA7gNiDvqbtTzmS,spotify:track:59x9anKxA7gNiDvqbtTzmS,The Stage (Deluxe Edition),God Only Knows,41,2017-12-22,18,0.171,0.557,9,-9.831,1,0.0434,0.00348,0.0101,0.0895,0.16,89.976,214147,3
+1L5elvXhJbDj9yzDFiTpuy,spotify:track:1L5elvXhJbDj9yzDFiTpuy,The Stage (Deluxe Edition),The Stage - Live from London,35,2017-12-22,19,0.396,0.948,9,-6.996,0,0.0891,0.00031,0.421,0.988,0.198,134.907,556932,4
+1HDFbX7YMhCK7L8QeTXOOZ,spotify:track:1HDFbX7YMhCK7L8QeTXOOZ,The Stage (Deluxe Edition),Paradigm - Live from London,32,2017-12-22,20,0.445,0.974,1,-5.979,1,0.0781,0.00024,0.489,0.991,0.201,97.455,283560,4
+57HRPVLyyg1Bx7JscPpKl9,spotify:track:57HRPVLyyg1Bx7JscPpKl9,The Stage (Deluxe Edition),Sunny Disposition - Live from London,31,2017-12-22,21,0.315,0.947,2,-7.221,1,0.101,0.000414,0.37,0.324,0.251,95.009,572095,3
+5JPPMgJBhDjUNzAUvGWXUl,spotify:track:5JPPMgJBhDjUNzAUvGWXUl,The Stage (Deluxe Edition),God Damn - Live from London,32,2017-12-22,22,0.491,0.984,0,-6.537,1,0.212,0.0017,0.212,0.931,0.162,119.945,283395,4
+4Q9PBVDGeOM55aLD90A4x8,spotify:track:4Q9PBVDGeOM55aLD90A4x8,The Stage,The Stage,51,2016-10-28,1,0.453,0.945,9,-6.925,0,0.0975,0.000363,0.323,0.108,0.215,134.949,512025,4
+78TgV6o1Sh4i26GNi57W95,spotify:track:78TgV6o1Sh4i26GNi57W95,The Stage,Paradigm,45,2016-10-28,2,0.498,0.962,1,-6.73,1,0.0747,0.000113,0.252,0.1,0.385,97.44,258748,4
+5DskPJLZiSqHOMx9AwumLh,spotify:track:5DskPJLZiSqHOMx9AwumLh,The Stage,Sunny Disposition,43,2016-10-28,3,0.463,0.952,9,-7.054,1,0.0818,0.000306,0.359,0.175,0.387,95.037,401213,4
+1CibV0i5tzTI5Fvqeez6S7,spotify:track:1CibV0i5tzTI5Fvqeez6S7,The Stage,God Damn,55,2016-10-28,4,0.5,0.947,7,-5.75,0,0.122,0.000597,0.00223,0.125,0.267,120.021,221974,4
+7LxcirshSHrQKociCvuIab,spotify:track:7LxcirshSHrQKociCvuIab,The Stage,Creating God,42,2016-10-28,5,0.467,0.967,7,-5.907,1,0.195,7.64e-05,0.287,0.324,0.31,149.956,334600,4
+6hBDlrlGEZV8tWHWTq4zSu,spotify:track:6hBDlrlGEZV8tWHWTq4zSu,The Stage,Angels,42,2016-10-28,6,0.407,0.843,7,-8.43,0,0.0776,0.00281,0.0367,0.0611,0.619,154.974,340627,4
+6Rvy686uW4eJPHVCpQoV1G,spotify:track:6Rvy686uW4eJPHVCpQoV1G,The Stage,Simulation,40,2016-10-28,7,0.328,0.925,0,-7.464,0,0.195,0.00043,0.0638,0.225,0.322,186.95,330946,4
+1Zsbwp2D3RUm1gqO5zDEQ6,spotify:track:1Zsbwp2D3RUm1gqO5zDEQ6,The Stage,Higher,42,2016-10-28,8,0.558,0.904,7,-7.812,0,0.0827,0.000831,0.256,0.46,0.172,129.955,388879,4
+06r4cRb2dnmCSyZ5MgEUGY,spotify:track:06r4cRb2dnmCSyZ5MgEUGY,The Stage,Roman Sky,46,2016-10-28,9,0.457,0.425,2,-8.807,0,0.0304,0.131,2.6e-05,0.0917,0.128,130.002,300361,4
+1rTug7mBtZg0rvG94JJaZj,spotify:track:1rTug7mBtZg0rvG94JJaZj,The Stage,Fermi Paradox,41,2016-10-28,10,0.326,0.946,9,-6.008,0,0.089,5.56e-05,0.346,0.457,0.388,154.878,390826,4
+4tdPxA5TuYi6daHfy5OJGQ,spotify:track:4tdPxA5TuYi6daHfy5OJGQ,The Stage,Exist,42,2016-10-28,11,0.309,0.936,2,-7.381,0,0.103,0.000222,0.586,0.318,0.111,130.241,939139,4
+4mORMf6m0Wbqmiw0ue6bAS,spotify:track:4mORMf6m0Wbqmiw0ue6bAS,Hail to the King: Deathbat (Original Video Game Soundtrack),Andronikos Theme,25,2015-01-27,1,0.581,0.586,7,-8.92,0,0.0284,0.136,0.855,0.231,0.215,140.012,256254,4
+7cCmDDmViLQoytNvHmFvjS,spotify:track:7cCmDDmViLQoytNvHmFvjS,Hail to the King: Deathbat (Original Video Game Soundtrack),Nightmare Theme,27,2015-01-27,2,0.526,0.92,6,-4.499,0,0.0325,0.00174,0.912,0.0845,0.308,130.024,304187,4
+5blr6jCuzCYNT5TNHDD2k6,spotify:track:5blr6jCuzCYNT5TNHDD2k6,Hail to the King: Deathbat (Original Video Game Soundtrack),Unholy Theme,24,2015-01-27,3,0.42,0.777,4,-5.936,0,0.0314,0.567,0.793,0.174,0.311,143.946,310813,3
+4NvvqUAqTXuifVAXh3iTTZ,spotify:track:4NvvqUAqTXuifVAXh3iTTZ,Hail to the King: Deathbat (Original Video Game Soundtrack),Bat Country Theme,24,2015-01-27,4,0.556,0.676,0,-6.95,1,0.0354,0.0611,0.952,0.531,0.228,139.97,280187,4
+67XNtWXuW9MWuHOMDUmAqR,spotify:track:67XNtWXuW9MWuHOMDUmAqR,Hail to the King: Deathbat (Original Video Game Soundtrack),Babylon Theme,22,2015-01-27,5,0.502,0.8,1,-6.675,1,0.0352,0.0168,0.834,0.0837,0.342,132.057,283640,4
+7iJ6XnMAp5I7aiDXS1T5Pr,spotify:track:7iJ6XnMAp5I7aiDXS1T5Pr,Hail to the King: Deathbat (Original Video Game Soundtrack),Afterlife Theme,23,2015-01-27,6,0.433,0.724,1,-7.875,1,0.0433,0.00211,0.865,0.148,0.13,188.024,293373,3
+245wkNGnCHF4ke5B0klbRC,spotify:track:245wkNGnCHF4ke5B0klbRC,Hail to the King: Deathbat (Original Video Game Soundtrack),Heaven Theme,24,2015-01-27,7,0.459,0.66,7,-7.043,0,0.0322,0.0248,0.763,0.0955,0.293,114.996,291267,4
+5L4iVgMvZpWDyaaBkZHdYB,spotify:track:5L4iVgMvZpWDyaaBkZHdYB,Hail to the King: Deathbat (Original Video Game Soundtrack),Wicked End Theme,23,2015-01-27,8,0.473,0.813,8,-7.691,1,0.0278,0.000656,0.805,0.1,0.383,102.007,271867,4
+5LIzvGpdF6aafiHXInDJWK,spotify:track:5LIzvGpdF6aafiHXInDJWK,Hail to the King: Deathbat (Original Video Game Soundtrack),Warrior Theme,22,2015-01-27,9,0.305,0.396,2,-12.291,0,0.0423,0.598,0.841,0.0725,0.0389,114.463,206867,4
+6gGozevjDhO5B0EvXbGFHQ,spotify:track:6gGozevjDhO5B0EvXbGFHQ,Hail to the King: Deathbat (Original Video Game Soundtrack),Andronikos Theme - 8-bit Version,23,2015-01-27,10,0.434,0.992,2,-5.744,1,0.0536,0.000283,0.968,0.322,0.614,140.025,93240,4
+6CGd3y9u2nEOBH4SLDQA2r,spotify:track:6CGd3y9u2nEOBH4SLDQA2r,Waking The Fallen: Resurrected,Waking The Fallen,33,2014-08-25,1,0.397,0.747,4,-9.847,0,0.038,0.000376,0.215,0.665,0.0798,94.968,102540,4
+6Y7McYakdykRprxwZL3YXe,spotify:track:6Y7McYakdykRprxwZL3YXe,Waking The Fallen: Resurrected,Unholy Confessions,42,2014-08-25,2,0.5,0.846,2,-6.7,0,0.065,0.000213,0.00199,0.0717,0.546,92.552,283846,4
+30FOHbMc2BqGu3tJ613GtR,spotify:track:30FOHbMc2BqGu3tJ613GtR,Waking The Fallen: Resurrected,Chapter Four,39,2014-08-25,3,0.476,0.941,2,-6.283,0,0.0455,3.79e-05,0.101,0.126,0.32,96.026,342533,4
+5hBUW7ZMWGECBQzt03HMox,spotify:track:5hBUW7ZMWGECBQzt03HMox,Waking The Fallen: Resurrected,Remenissions,37,2014-08-25,4,0.432,0.949,7,-6.884,1,0.0584,7.59e-05,0.0112,0.206,0.397,89.543,366667,4
+1GJ0txdIfvyyVfPXQr5PE1,spotify:track:1GJ0txdIfvyyVfPXQr5PE1,Waking The Fallen: Resurrected,Desecrate Through Reverence,35,2014-08-25,5,0.458,0.951,9,-5.428,1,0.0535,0.000116,0.0175,0.536,0.528,94.988,338027,4
+3yFrzapjmOI101G54kj4Le,spotify:track:3yFrzapjmOI101G54kj4Le,Waking The Fallen: Resurrected,Eternal Rest,35,2014-08-25,6,0.264,0.982,2,-5.774,1,0.0942,3.29e-05,0.0345,0.245,0.252,115.945,312681,4
+73kvunTmw2ZZQMJlhMu6OY,spotify:track:73kvunTmw2ZZQMJlhMu6OY,Waking The Fallen: Resurrected,Second Heartbeat,37,2014-08-25,7,0.294,0.977,0,-6.256,0,0.0798,1.18e-05,0.516,0.119,0.32,184.97,420332,4
+2cSOcDFcuEXNMaGUpYYZXP,spotify:track:2cSOcDFcuEXNMaGUpYYZXP,Waking The Fallen: Resurrected,Radiant Eclipse,33,2014-08-25,8,0.547,0.903,5,-7.303,1,0.0508,5.33e-05,0.0814,0.192,0.42,125.033,372134,4
+1T5E2uDpn6AXiKkmEeRiO0,spotify:track:1T5E2uDpn6AXiKkmEeRiO0,Waking The Fallen: Resurrected,I Won't See You Tonight Part 1,38,2014-08-25,9,0.344,0.694,7,-6.413,0,0.0475,0.000444,0.00471,0.193,0.09,129.833,535877,4
+2qNMzM0lcu2tth4Q2vqmDs,spotify:track:2qNMzM0lcu2tth4Q2vqmDs,Waking The Fallen: Resurrected,I Won't See You Tonight Part 2,34,2014-08-25,10,0.323,0.926,3,-6.685,1,0.0492,7.69e-05,0.0434,0.368,0.539,135.02,284694,4
+59QEsjOMPwbQYrvlVmw1zH,spotify:track:59QEsjOMPwbQYrvlVmw1zH,Waking The Fallen: Resurrected,Clairvoyant Disease,34,2014-08-25,11,0.475,0.865,2,-5.647,0,0.0509,0.000601,0.00649,0.0807,0.244,139.998,299895,4
+28q3cKQVV3sYeGDFrsbxbC,spotify:track:28q3cKQVV3sYeGDFrsbxbC,Waking The Fallen: Resurrected,And All Things Will End,34,2014-08-25,12,0.353,0.82,10,-7.146,1,0.0436,6.13e-05,0.156,0.101,0.278,164.866,465748,4
+5I2T1W491kw6wJVH6IpPnm,spotify:track:5I2T1W491kw6wJVH6IpPnm,Waking The Fallen: Resurrected,Waking The Fallen: Resurrected,37,2014-08-25,13,0.229,0.863,7,-5.997,0,0.0524,5.8e-05,0.883,0.0854,0.0391,93.729,169654,4
+0ZWExwBygpJn3zjjKkn81q,spotify:track:0ZWExwBygpJn3zjjKkn81q,Waking The Fallen: Resurrected,Second Heartbeat - Alternate Version,35,2014-08-25,14,0.257,0.968,0,-5.027,0,0.0738,1.12e-05,0.227,0.111,0.282,103.724,379566,4
+3C0s1brRVTr5uDakgAjGUb,spotify:track:3C0s1brRVTr5uDakgAjGUb,Waking The Fallen: Resurrected,Chapter Four - Demo,34,2014-08-25,15,0.518,0.973,9,-5.277,1,0.116,1.15e-05,0.312,0.212,0.187,99.525,384248,4
+3TTkCSQLVcF8nKIBurDQVd,spotify:track:3TTkCSQLVcF8nKIBurDQVd,Waking The Fallen: Resurrected,Remenissions - Demo,31,2014-08-25,16,0.405,0.993,2,-4.875,1,0.139,2.33e-05,0.0501,0.334,0.12,92.408,371752,4
+4uBzSv0biJ5ncDR9EUnFzt,spotify:track:4uBzSv0biJ5ncDR9EUnFzt,Waking The Fallen: Resurrected,I Won't See You Tonight Part 1 - Demo,32,2014-08-25,17,0.466,0.892,7,-5.54,0,0.0548,4.09e-06,0.578,0.317,0.228,132.006,367332,4
+3Q49pqwKDdJ0fJjcgXqflF,spotify:track:3Q49pqwKDdJ0fJjcgXqflF,Waking The Fallen: Resurrected,I Won't See You Tonight Part 2 - Demo,30,2014-08-25,18,0.34,0.977,2,-5.483,1,0.13,1.33e-05,0.5,0.738,0.191,137.114,327600,4
+5h4sEkQn5uCgSJZmTNecQ0,spotify:track:5h4sEkQn5uCgSJZmTNecQ0,Waking The Fallen: Resurrected,Intro/Chapter Four - Live in Ventura,31,2014-08-25,19,0.389,0.968,2,-6.023,0,0.272,0.000154,0.0893,0.986,0.0422,95.966,429833,4
+0EIUyFjQAatULG6d71HQB9,spotify:track:0EIUyFjQAatULG6d71HQB9,Waking The Fallen: Resurrected,Desecrate Through Reverence - Live in Pomona,31,2014-08-25,20,0.306,0.969,4,-5.08,0,0.159,1.73e-05,0.000216,0.808,0.202,96.859,343692,4
+0KmRc967JpgncZqTL7Dp0Z,spotify:track:0KmRc967JpgncZqTL7Dp0Z,Waking The Fallen: Resurrected,Eternal Rest - Live in Pomona,30,2014-08-25,21,0.227,0.986,2,-4.971,0,0.324,2.47e-05,0.000383,0.834,0.0978,117.092,317414,4
+6o2EtaDZ2XG89T5HagPxtX,spotify:track:6o2EtaDZ2XG89T5HagPxtX,Waking The Fallen: Resurrected,Unholy Confessions - Live in Ventura,32,2014-08-25,22,0.357,0.932,2,-6.241,0,0.24,9.74e-05,0.0171,0.87,0.345,94.244,315640,4
+0KSiqpb47eMhj5UKFTB0pH,spotify:track:0KSiqpb47eMhj5UKFTB0pH,Waking The Fallen: Resurrected,Second Heartbeat - Live in Ventura,31,2014-08-25,23,0.232,0.985,0,-3.7,0,0.224,3.26e-05,0.3,0.982,0.148,95.203,428280,4
+1fQaoh3imrMunWVZh5kf90,spotify:track:1fQaoh3imrMunWVZh5kf90,Hail to the King,Shepherd of Fire,73,2013-08-23,1,0.576,0.906,2,-7.677,1,0.0571,0.000332,0.0614,0.0908,0.211,127.935,323800,4
+5anCkDvJ17aznvK5TED5uo,spotify:track:5anCkDvJ17aznvK5TED5uo,Hail to the King,Hail to the King,80,2013-08-23,2,0.58,0.916,3,-4.358,0,0.0387,0.000297,0.0259,0.126,0.683,118.004,305907,4
+4OyfdJiHM6sbfkFmRLrygg,spotify:track:4OyfdJiHM6sbfkFmRLrygg,Hail to the King,Doing Time,60,2013-08-23,3,0.433,0.994,2,-6.004,1,0.0833,3.13e-05,0.0564,0.196,0.533,160.033,205933,4
+2NImo2MajNai4CLk35wMut,spotify:track:2NImo2MajNai4CLk35wMut,Hail to the King,This Means War,66,2013-08-23,4,0.614,0.914,7,-5.59,0,0.0324,0.000554,1.16e-05,0.0371,0.439,90.0,369293,4
+2QecHpp1nzPMwo95fwxZ9h,spotify:track:2QecHpp1nzPMwo95fwxZ9h,Hail to the King,Requiem,55,2013-08-23,5,0.532,0.953,8,-5.667,1,0.0394,0.000104,0.00765,0.119,0.485,142.016,261573,4
+28JSZ4KyzDXnnC2XnJX1db,spotify:track:28JSZ4KyzDXnnC2XnJX1db,Hail to the King,Crimson Day,55,2013-08-23,6,0.537,0.627,7,-7.229,1,0.0288,0.00271,2.12e-06,0.115,0.168,134.945,297453,4
+31sv85yD7zbD6X9B2FHpxy,spotify:track:31sv85yD7zbD6X9B2FHpxy,Hail to the King,Heretic,60,2013-08-23,7,0.508,0.926,2,-7.133,0,0.0396,0.000108,0.00221,0.364,0.491,136.89,295213,4
+3vYP5IgBfHv9nWbNhTq3IS,spotify:track:3vYP5IgBfHv9nWbNhTq3IS,Hail to the King,Coming Home,60,2013-08-23,8,0.378,0.975,1,-6.447,0,0.055,0.000128,0.0018,0.204,0.457,178.008,385400,4
+4BqYQ1WQ0GFE1xmIaduKLi,spotify:track:4BqYQ1WQ0GFE1xmIaduKLi,Hail to the King,Planets,52,2013-08-23,9,0.535,0.925,2,-6.357,1,0.0406,0.000106,0.0148,0.181,0.315,140.021,356307,4
+7yOHHVY8AhsNt297yEcHVE,spotify:track:7yOHHVY8AhsNt297yEcHVE,Hail to the King,Acid Rain,57,2013-08-23,10,0.232,0.582,2,-9.335,0,0.0377,0.00728,4.27e-05,0.111,0.0763,184.873,400933,3
+4UEo1b0wWrtHMC8bVqPiH8,spotify:track:4UEo1b0wWrtHMC8bVqPiH8,Nightmare,Nightmare,75,2010-07-23,1,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,374453,4
+0jqblvsI9LBY4irmLVqqEO,spotify:track:0jqblvsI9LBY4irmLVqqEO,Nightmare,Welcome to the Family,69,2010-07-23,2,0.567,0.946,2,-3.973,0,0.0935,0.00267,0.0,0.0567,0.699,94.985,245573,4
+7pS3O75hJnthHr64tlpqPn,spotify:track:7pS3O75hJnthHr64tlpqPn,Nightmare,Danger Line,61,2010-07-23,3,0.473,0.767,5,-6.383,1,0.0548,0.00116,0.000798,0.109,0.375,180.024,328387,4
+4veeNpXDK1YRHMTJ1Cppsg,spotify:track:4veeNpXDK1YRHMTJ1Cppsg,Nightmare,Buried Alive,68,2010-07-23,4,0.607,0.804,9,-5.209,0,0.0296,0.00116,0.0,0.159,0.469,139.983,404387,4
+5o8OdhjVZSF2wCj7M8UpMN,spotify:track:5o8OdhjVZSF2wCj7M8UpMN,Nightmare,Natural Born Killer,63,2010-07-23,5,0.394,0.952,7,-4.51,0,0.0677,0.000159,3.72e-05,0.316,0.477,184.916,315173,4
+7Hr1Ignop7cymbE3FbOtXa,spotify:track:7Hr1Ignop7cymbE3FbOtXa,Nightmare,So Far Away,69,2010-07-23,6,0.286,0.703,4,-4.491,0,0.0348,0.00847,7.39e-05,0.142,0.259,151.297,326813,4
+031uTUhyy6xmDJqmeWJBi9,spotify:track:031uTUhyy6xmDJqmeWJBi9,Nightmare,God Hates Us,57,2010-07-23,7,0.453,0.959,0,-6.121,0,0.119,0.000321,0.14,0.132,0.204,139.997,319187,4
+4H2x38N2IZAkZZM69WD1SH,spotify:track:4H2x38N2IZAkZZM69WD1SH,Nightmare,Victim,56,2010-07-23,8,0.547,0.831,0,-5.06,0,0.0324,0.00395,8.08e-06,0.12,0.101,130.0,449720,4
+1I5RmSqq96UQnjT9EKGMso,spotify:track:1I5RmSqq96UQnjT9EKGMso,Nightmare,Tonight the World Dies,54,2010-07-23,9,0.552,0.663,4,-4.805,0,0.0264,0.0886,0.0,0.0765,0.119,135.022,281227,4
+3b3eu3uMp1b9xPOHbfSwBi,spotify:track:3b3eu3uMp1b9xPOHbfSwBi,Nightmare,Fiction,55,2010-07-23,10,0.605,0.627,0,-7.454,1,0.0265,0.0612,3.6e-05,0.106,0.243,120.0,307987,4
+53jogSv23P6DFcOHcZrDs9,spotify:track:53jogSv23P6DFcOHcZrDs9,Nightmare,Save Me,58,2010-07-23,11,0.499,0.916,9,-4.785,0,0.0501,0.000391,0.00117,0.154,0.251,94.963,656493,3
+4VymMhILk4DSwghPkLUPVS,spotify:track:4VymMhILk4DSwghPkLUPVS,Avenged Sevenfold,Critical Acclaim,65,2007-10-26,1,0.499,0.966,7,-4.679,1,0.11,0.000329,6.1e-05,0.151,0.215,138.042,315173,4
+0DkmhHO4yyqCJFjosmmWPU,spotify:track:0DkmhHO4yyqCJFjosmmWPU,Avenged Sevenfold,Almost Easy,69,2007-10-26,2,0.378,0.959,6,-4.615,1,0.062,3.56e-05,0.000138,0.102,0.338,174.932,234093,4
+297d7PwfSFHQXCjqqDXQT2,spotify:track:297d7PwfSFHQXCjqqDXQT2,Avenged Sevenfold,Scream,62,2007-10-26,3,0.549,0.941,6,-4.802,0,0.0521,3.74e-05,1.45e-06,0.214,0.581,130.009,288520,4
+7zAt4tdL44D3VuzsvM0N8n,spotify:track:7zAt4tdL44D3VuzsvM0N8n,Avenged Sevenfold,Afterlife,75,2007-10-26,4,0.487,0.949,2,-4.217,0,0.0798,0.000429,2.91e-05,0.231,0.406,110.02,352427,4
+7MOQrtXMNImAq5TrPZzC0w,spotify:track:7MOQrtXMNImAq5TrPZzC0w,Avenged Sevenfold,Gunslinger,66,2007-10-26,5,0.316,0.729,2,-5.931,0,0.0356,0.0203,8.99e-06,0.207,0.367,163.127,251533,4
+63KJgtNcHRii4aHvUlmtSx,spotify:track:63KJgtNcHRii4aHvUlmtSx,Avenged Sevenfold,Unbound (The Wild Ride),56,2007-10-26,6,0.429,0.949,2,-5.447,0,0.0877,0.00209,1.68e-06,0.187,0.402,139.949,311867,4
+3H2VmsXSSxjIv1UUPEQ30d,spotify:track:3H2VmsXSSxjIv1UUPEQ30d,Avenged Sevenfold,Brompton Cocktail,55,2007-10-26,7,0.504,0.961,7,-4.697,1,0.0799,0.00091,3.04e-05,0.417,0.36,150.01,252640,4
+0EtXiKDaHJcVFFvhWpSfiN,spotify:track:0EtXiKDaHJcVFFvhWpSfiN,Avenged Sevenfold,Lost,57,2007-10-26,8,0.214,0.955,5,-3.576,1,0.0687,5.82e-05,0.00015,0.0973,0.393,179.997,301507,4
+1BLfQ6dPXmuDrFmbdfW7Jl,spotify:track:1BLfQ6dPXmuDrFmbdfW7Jl,Avenged Sevenfold,A Little Piece of Heaven,72,2007-10-26,9,0.486,0.881,2,-5.623,0,0.0474,0.0244,0.0,0.429,0.667,144.997,480707,4
+2FML7gk7ac6quGFIjvkDb3,spotify:track:2FML7gk7ac6quGFIjvkDb3,Avenged Sevenfold,Dear God,72,2007-10-26,10,0.472,0.772,5,-5.928,1,0.0316,0.00658,5.65e-05,0.132,0.6,139.993,393480,4
+1Jw12tFlAf6iLFrSGBNAj4,spotify:track:1Jw12tFlAf6iLFrSGBNAj4,Avenged Sevenfold,Almost Easy - Jam-Along Version,49,2007-10-26,11,0.405,0.969,6,-4.452,1,0.0559,3.85e-05,5.41e-05,0.114,0.359,174.958,235846,4
+5PkuqYwQIVhNJQTuudLISJ,spotify:track:5PkuqYwQIVhNJQTuudLISJ,Avenged Sevenfold,Bat Country - Live at Hammerstein Ballroom,46,2007-10-26,12,0.406,0.976,0,-4.814,1,0.123,0.00083,0.0265,0.671,0.123,125.032,364480,4
+6FVYwnVrnAEIRnY3bHJb46,spotify:track:6FVYwnVrnAEIRnY3bHJb46,City of Evil,Beast and the Harlot,65,2005-06-06,1,0.37,0.981,5,-3.296,1,0.0633,6.28e-05,0.00225,0.331,0.413,155.177,343600,4
+4bcN9riyILh4IXEdmLGa8m,spotify:track:4bcN9riyILh4IXEdmLGa8m,City of Evil,Burn It Down,55,2005-06-06,2,0.345,0.974,2,-3.221,0,0.0607,0.0012,3.03e-05,0.362,0.571,175.027,298813,4
+39ZiU2QVBvDQzeepJjg8tp,spotify:track:39ZiU2QVBvDQzeepJjg8tp,City of Evil,Blinded in Chains,62,2005-06-06,3,0.245,0.961,2,-4.223,0,0.0852,9.79e-05,0.00433,0.164,0.574,96.0,394467,4
+3sHH7lklbfpcraDDvYnjo7,spotify:track:3sHH7lklbfpcraDDvYnjo7,City of Evil,Bat Country,74,2005-06-06,4,0.541,0.968,0,-4.129,1,0.0396,0.000248,8.28e-06,0.423,0.505,125.04,311813,4
+01CYr3t0hedD915PmI5l4D,spotify:track:01CYr3t0hedD915PmI5l4D,City of Evil,Trashed and Scattered,58,2005-06-06,5,0.327,0.961,5,-3.125,1,0.108,0.00218,0.00013,0.246,0.33,175.241,351533,4
+7HKRWMTErKh56EIBeFcmdf,spotify:track:7HKRWMTErKh56EIBeFcmdf,City of Evil,Seize the Day,68,2005-06-06,6,0.393,0.802,5,-4.499,1,0.0367,0.0168,0.0,0.193,0.338,140.101,334067,4
+6rujTb9hJa0XdUNtPftz4M,spotify:track:6rujTb9hJa0XdUNtPftz4M,City of Evil,Sidewinder,54,2005-06-06,7,0.537,0.953,2,-4.335,0,0.0654,0.00184,3.53e-05,0.334,0.397,123.163,421653,4
+18dQgDh5WDUH99YIkRf0dA,spotify:track:18dQgDh5WDUH99YIkRf0dA,City of Evil,The Wicked End,52,2005-06-06,8,0.455,0.933,2,-3.928,0,0.0506,0.000438,1.91e-05,0.0379,0.489,119.967,430240,4
+3muNQv1Ctk9NwzksJA1z5c,spotify:track:3muNQv1Ctk9NwzksJA1z5c,City of Evil,Strength of the World,52,2005-06-06,9,0.338,0.812,0,-4.816,1,0.0346,0.000999,0.000139,0.11,0.317,160.03,554840,4
+5fArVBrjtT7UPIQ8j2yQnJ,spotify:track:5fArVBrjtT7UPIQ8j2yQnJ,City of Evil,Betrayed,52,2005-06-06,10,0.468,0.929,5,-3.787,1,0.0556,0.00133,1.54e-06,0.296,0.515,130.009,406427,4
+3PrvYgv97s5U752pIpDMNf,spotify:track:3PrvYgv97s5U752pIpDMNf,City of Evil,M.I.A.,62,2005-06-06,11,0.213,0.805,2,-5.211,0,0.0613,0.00702,0.000561,0.118,0.133,164.952,526013,4
+5YvSToCqZvUbmSmySsYoID,spotify:track:5YvSToCqZvUbmSmySsYoID,Waking The Fallen,Waking the Fallen,47,2003-08-26,1,0.391,0.776,6,-8.625,1,0.0403,0.000425,0.179,0.663,0.0854,94.999,102333,4
+78XFPcFYN8YFOHjtVwnPsl,spotify:track:78XFPcFYN8YFOHjtVwnPsl,Waking The Fallen,Unholy Confessions,72,2003-08-26,2,0.447,0.876,2,-5.446,0,0.066,0.000359,0.00103,0.255,0.532,92.535,283827,4
+4ORgqa0GOafXbApy6S8FpJ,spotify:track:4ORgqa0GOafXbApy6S8FpJ,Waking The Fallen,Chapter Four,60,2003-08-26,3,0.479,0.954,5,-5.012,1,0.0477,4.79e-05,0.111,0.176,0.354,95.999,342533,4
+0foUqfFNnzCnlSroyvsONr,spotify:track:0foUqfFNnzCnlSroyvsONr,Waking The Fallen,Remenissions,55,2003-08-26,4,0.342,0.958,7,-5.618,1,0.0812,0.000108,0.00975,0.23,0.418,179.046,366667,4
+2CtlenYH17sZ8Mzg9tgT1K,spotify:track:2CtlenYH17sZ8Mzg9tgT1K,Waking The Fallen,Desecrate Through Reverence,51,2003-08-26,5,0.457,0.962,9,-4.155,1,0.0689,0.000114,0.0188,0.618,0.481,94.993,338040,4
+1Jcg3rS8cFHFsZkgLBCTxP,spotify:track:1Jcg3rS8cFHFsZkgLBCTxP,Waking The Fallen,Eternal Rest,49,2003-08-26,6,0.269,0.987,2,-4.459,1,0.107,3.87e-05,0.0303,0.3,0.219,116.956,312667,4
+3hmX5dfwY9oRIpJKvt755u,spotify:track:3hmX5dfwY9oRIpJKvt755u,Waking The Fallen,Second Heartbeat,58,2003-08-26,7,0.294,0.986,0,-4.947,0,0.096,1.21e-05,0.543,0.118,0.316,184.987,420333,4
+6emkKEVCaDzDqUyaKxhCEG,spotify:track:6emkKEVCaDzDqUyaKxhCEG,Waking The Fallen,Radiant Eclipse,48,2003-08-26,8,0.548,0.928,5,-6.042,1,0.052,5.99e-05,0.0862,0.2,0.437,125.031,369667,4
+67w1cb9ESAnCGJkC9hW2nO,spotify:track:67w1cb9ESAnCGJkC9hW2nO,Waking The Fallen,I Won't See You Tonight Part 1,59,2003-08-26,9,0.4,0.719,7,-5.109,0,0.0492,0.000451,0.00581,0.218,0.101,129.505,538333,4
+2Doa43IoYTlDho7OKi4aZ8,spotify:track:2Doa43IoYTlDho7OKi4aZ8,Waking The Fallen,I Won't See You Tonight Part 2,50,2003-08-26,10,0.332,0.943,3,-5.394,1,0.0529,6.14e-05,0.0872,0.39,0.54,135.019,284693,4
+7zKpO6ElcIh9uFwxjGn8r7,spotify:track:7zKpO6ElcIh9uFwxjGn8r7,Waking The Fallen,Clairvoyant Disease,49,2003-08-26,11,0.465,0.907,2,-4.406,0,0.0519,0.000511,0.00376,0.0951,0.251,140.023,299907,4
+3z5GVpU8JtKsVG5hsZjign,spotify:track:3z5GVpU8JtKsVG5hsZjign,Waking The Fallen,And All Things Will End,49,2003-08-26,12,0.348,0.854,10,-5.873,1,0.046,6.41e-05,0.177,0.11,0.27,164.937,460867,4
+4ppm6hPyVcrCpdDauT2cnn,spotify:track:4ppm6hPyVcrCpdDauT2cnn,Sounding The Seventh Trumpet,To End The Rapture,48,2002-03-19,1,0.254,0.882,7,-5.638,1,0.132,0.000342,0.00031,0.486,0.255,120.406,84067,4
+0W0kwHxInxC7rkIsEHFjEz,spotify:track:0W0kwHxInxC7rkIsEHFjEz,Sounding The Seventh Trumpet,Turn The Other Way,44,2002-03-19,2,0.321,0.933,7,-4.093,1,0.0975,8.2e-05,0.048,0.228,0.482,144.015,336533,4
+6YQcnnJcZ8fhNyJ8Rj4ovD,spotify:track:6YQcnnJcZ8fhNyJ8Rj4ovD,Sounding The Seventh Trumpet,Darkness Surrounding,44,2002-03-19,3,0.338,0.971,4,-3.862,0,0.128,6.09e-05,0.0111,0.377,0.307,99.942,289373,4
+0zITULEFzksIY7OZbBENVo,spotify:track:0zITULEFzksIY7OZbBENVo,Sounding The Seventh Trumpet,The Art Of Subconscious Illusion,42,2002-03-19,4,0.301,0.976,2,-3.491,1,0.0767,2.14e-05,0.543,0.0964,0.407,103.122,225733,4
+6hJO4kMjKVBiYUNpZTxgYM,spotify:track:6hJO4kMjKVBiYUNpZTxgYM,Sounding The Seventh Trumpet,We Come Out At Night,41,2002-03-19,5,0.287,0.96,7,-4.249,1,0.189,0.000539,0.0053,0.116,0.205,92.371,284933,4
+2qZFJKoVY2YMCn1wrUouI2,spotify:track:2qZFJKoVY2YMCn1wrUouI2,Sounding The Seventh Trumpet,Lips Of Deceit,41,2002-03-19,6,0.206,0.953,2,-4.224,0,0.125,5.08e-05,0.241,0.273,0.317,92.707,249160,4
+018zT8xThRbMH2QeUoMlKQ,spotify:track:018zT8xThRbMH2QeUoMlKQ,Sounding The Seventh Trumpet,Warmness On The Soul,58,2002-03-19,7,0.614,0.636,7,-5.634,1,0.0287,0.38,0.00459,0.1,0.308,117.966,259800,4
+4lfCrTTCIDsWBnQzEn3FXZ,spotify:track:4lfCrTTCIDsWBnQzEn3FXZ,Sounding The Seventh Trumpet,An Epic Of Time Wasted,41,2002-03-19,8,0.328,0.952,2,-3.903,1,0.13,0.000137,0.0279,0.287,0.282,104.278,258840,4
+5MyoidtsejjnjTcwXPXBlo,spotify:track:5MyoidtsejjnjTcwXPXBlo,Sounding The Seventh Trumpet,Breaking Their Hold,38,2002-03-19,9,0.267,0.99,4,-3.137,0,0.0948,3.87e-06,0.307,0.227,0.477,96.768,71733,4
+4ZnhD57uwrP2935k2ziLvi,spotify:track:4ZnhD57uwrP2935k2ziLvi,Sounding The Seventh Trumpet,Forgotten Faces,39,2002-03-19,10,0.315,0.923,7,-3.983,1,0.0736,8.86e-05,0.0929,0.214,0.638,97.226,206933,4
+5ZOPIDzkfKfLHnqXvOmVlf,spotify:track:5ZOPIDzkfKfLHnqXvOmVlf,Sounding The Seventh Trumpet,Thick And Thin,40,2002-03-19,11,0.316,0.971,2,-4.055,1,0.0686,1.05e-05,0.0904,0.17,0.528,98.685,255267,4
+6Kksr5Cu3eVFsVmjQ3Y1Te,spotify:track:6Kksr5Cu3eVFsVmjQ3Y1Te,Sounding The Seventh Trumpet,Streets,41,2002-03-19,12,0.452,0.962,9,-4.218,0,0.081,0.000203,0.000894,0.148,0.502,101.417,186467,3
+2ZWum2otTIbHuiSbFE5QRU,spotify:track:2ZWum2otTIbHuiSbFE5QRU,Sounding The Seventh Trumpet,Shattered By Broken Dreams,42,2002-03-19,13,0.246,0.952,7,-5.08,1,0.0965,0.000302,0.074,0.246,0.189,153.104,428293,4
